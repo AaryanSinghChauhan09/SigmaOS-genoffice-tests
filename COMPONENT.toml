@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-genoffice-tests"
+tier = 3
+stability = "scaffold"
+language = "rust"
+description = "GenOffice test suite — format round-trip corpus, offline validation, accessibility checks, and export regression tests"
+upstream = []
+
+[contract]
+provides = ["genoffice-test-corpus"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"
