@@ -2,7 +2,8 @@
 name = "sigmaos_genoffice_tests"
 version = "0.1.0"
 edition = "2021"
-description = "GenOffice test suite — format round-trip corpus, offline validation, accessibility checks, and export regression tests"
+license = "MIT"
+description = "SigmaOS genoffice-tests component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
 name = "sigmaos_genoffice_tests"
