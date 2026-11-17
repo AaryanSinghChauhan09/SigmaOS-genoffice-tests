@@ -3,7 +3,7 @@ name = "SigmaOS-genoffice-tests"
 tier = 3
 stability = "scaffold"
 language = "rust"
-description = "GenOffice test suite — format round-trip corpus, offline validation, accessibility checks, and export regression tests"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
